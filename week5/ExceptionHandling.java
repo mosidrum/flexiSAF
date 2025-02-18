@@ -4,7 +4,7 @@ import java.util.Scanner;
 class InvalidAgeException extends Exception {
     public InvalidAgeException(String message) {
         super(message);
-    }ception ha
+    }
 }
 
 public class ExceptionHandling {
